@@ -18,7 +18,7 @@ router.get('/config', (req, res) => {
             prefix : '/',
             namabot: 'TobiichiBot',
             namaowner: 'LAND XD',
-            instagram: 'Land-xd6-',
+            instagram: 'LANDXD-404',
             youtube : 'Land Yt'
         }
     }
